@@ -1,0 +1,41 @@
+.form-btn {
+  width: 100%;
+}
+
+.form-input {
+  margin-bottom: 0;
+}
+
+.txt-date {
+  color: grey;
+  font-size: 90%;
+  font-style: italic;
+}
+
+#note-list-ul {
+  overflow: auto;
+  height: 300px;
+  margin: 0;
+  padding: 0;
+}
+
+.note-list-li {
+  list-style: none;
+  padding: 10px 20px;
+}
+
+#empty-notice {
+  font-size: 25px;
+  color: grey;
+  margin-top: 20px;
+}
+
+.tag-btn-group .ant-btn-primary {
+  background-color: orange;
+  border-color: orange;
+}
+
+.edit-modal-input {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
